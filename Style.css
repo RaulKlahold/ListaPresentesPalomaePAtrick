@@ -13,5 +13,6 @@ body {
     text-align: center; 
     padding: 20px; 
     box-shadow: 2px 4px 6px #d4aa00, -3px -3px 5px #9c803f;
-    background-color: #c8e6c9;
+    background-color: rgba(200, 230, 201, 0.2);
+    border-radius: 10px ;
 }
