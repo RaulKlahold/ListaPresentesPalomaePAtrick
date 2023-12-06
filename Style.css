@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: radial-gradient(circle, #3498db, #e74c3c, #2ecc71);
+}
+.container-central{
+    width: 60%; 
+    height: 50%; 
+    background-color: #f0f0f0;
+    text-align: center; 
+    padding: 20px; 
+    box-shadow: 2px 4px 6px rgb(11, 11, 11), -3px -3px 5px rgb(74, 74, 74);
+}
