@@ -34,5 +34,12 @@ h1 {
 .rodape{
     width: auto;
     height: 40px;
+    
+    
 }
-
+nav{
+    align-items: center;
+}
+a{
+    margin: 50px;
+}
