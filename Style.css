@@ -24,7 +24,7 @@ h1 {
  
 }
 .centro-divisoria{
-    width: 500px;
+    width: 50%;
     height: 3px;
     margin: auto;
     background: linear-gradient(to right, #ffd700, #cdaa7d, #4caf50);
