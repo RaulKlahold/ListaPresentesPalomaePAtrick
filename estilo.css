@@ -6,7 +6,7 @@ body {
     margin: 0;
     background: linear-gradient(to right, #ffd700, #cdaa7d, #4caf50);
 }
-.container-central{
+.container-central2{
     width: 65%; 
     height: 55%; 
     background-color: #f0f0f0;
@@ -18,12 +18,16 @@ body {
 }
 h1 {
     font-family: 'Great Vibes', cursive;
-    font-size: 80px;
+    font-size: 40px;
     width: auto;
     
  
 }
-.centro-divisoria{
+p {
+    font-family: 'Great Vibes', cursive;
+
+}
+.centro-divisoria2{
     width: 50%;
     height: 3px;
     margin: auto;
@@ -31,15 +35,12 @@ h1 {
     margin-top: -60px;
    
 }
-.rodape{
+.rodape2{
     width: auto;
     height: 40px;
+    margin-top: 40px;
     
     
 }
-nav{
-    align-items: center;
-}
-a{
-    margin: 50px;
-}
+
+
