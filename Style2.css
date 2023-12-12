@@ -14,16 +14,16 @@ body {
     padding: 30px; 
     box-shadow: 2px 4px 6px #d4aa00, -3px -3px 5px #9c803f;
     background-color: rgba(200, 230, 201, 0.3);
-    margin-top: 40px;
+    
 }
 .h1-list{
-    font-size: 200%;
+    font-size: 150%;
     font-family: 'Great Vibes', cursive;
     
 
 }
 ul{
-    font-size: 80%;
+    font-size: 70%;
     font-family: poppins;
-    align-items: center;
+    width: 80%;
 }
