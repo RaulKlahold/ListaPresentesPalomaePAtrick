@@ -18,7 +18,7 @@ body {
 }
 h1 {
     font-family: 'Great Vibes', cursive;
-    font-size: 80px;
+    font-size: 350%;
     width: auto;
     
  
@@ -28,7 +28,7 @@ h1 {
     height: 3px;
     margin: auto;
     background: linear-gradient(to right, #ffd700, #cdaa7d, #4caf50);
-    margin-top: -60px;
+    
    
 }
 .rodape{
