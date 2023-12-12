@@ -17,12 +17,13 @@ body {
     margin-top: 40px;
 }
 .h1-list{
-    font-size: 30px;
+    font-size: 200%;
     font-family: 'Great Vibes', cursive;
     
 
 }
 ul{
-    font-size: 1opx;
+    font-size: 80%;
     font-family: poppins;
+    align-items: center;
 }
